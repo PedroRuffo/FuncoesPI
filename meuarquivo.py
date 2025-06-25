@@ -5,6 +5,8 @@
 # • Marina Luiza de Araujo Paiva - RA: 1051392511040
 # • Pedro Henrique R. Ruffo de Souza - RA: 1051392511030
 
+# https://colab.research.google.com/drive/11jMUSP-AMSqQpRtOI9fT62Dobj5Y5HNx?usp=sharing
+
 # Função 1: Filtro
 def filtrar_area():
     cursos_por_area = {
